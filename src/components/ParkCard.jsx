@@ -1,16 +1,16 @@
 import "../css/ParkCard.css";
 function ParkCard({ park }) {
-    function onSaveClick() {
-        alert("clicked")
+    
+    function onParkClick() {
+        window.location.href = `/park/${park.id}`;
     }
-    return <div className="park-card">
-        <div className = "park-card-image">
-            <img src={park.image} alt={park.name} />
-            <div className = "park-overlay">
-                <button className="save-button" onClick={onSaveClick}>
-                    ✔
-                </button>
-            </div>
+    return <div className="park-card" onClick={onParkClick}>
+        <div className = "park-overlay">
+        </div>
+        <div
+      className="park-card-image"
+      style={{ backgroundImage: `url(${park.image})` }}
+    >
         </div>
         <div className="park-info">
             <h3>{park.name}</h3>

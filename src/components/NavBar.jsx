@@ -6,9 +6,12 @@ function NavBar() {
         <Link to="/" className="logo-link">
                 <img src={logo} className="logo-img" alt="Logo" />
         </Link>
+        <div className="navbar-title">
+            <p>Pleasanton Parks</p>
+        </div>
         <div className="navbar-links"> 
             <Link to="/" className="nav-link">Home</Link>
-            <Link to="/Saved" className="nav-link">Saved</Link>
+            <Link to="/Details" className="nav-link">Contact</Link>
         </div>
     </nav>
 }
