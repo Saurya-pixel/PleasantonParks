@@ -19,12 +19,12 @@ function AlvisoAdobe() {
           Visitors can explore the original adobe home, which is furnished as it would have appeared in the 1920s, and walk through a reconstructed Milking Barn that features 
           interactive dairy exhibits. Engaging and family-friendly, the park includes hands-on activities such as milking "Fiona" the life-sized fiberglass cow, exploring 
           animal tracks in kinetic sand, and practicing roping skills with wooden livestock figures. Throughout the site, interpretive signs and digital tour options provide 
-          layered context to the exhibits, making learning both accessible and immersive. Alviso Adobe is not just a historical site—it’s also an educational hub. The park 
-          regularly hosts school field trips for grades K–4, guided group tours, and community programs that bring natural and cultural history to life. Visitors can borrow 
+          layered context to the exhibits, making learning both accessible and immersive. Alviso Adobe is not just a historical site—it's also an educational hub. The park 
+          regularly hosts school field trips for grades K-4, guided group tours, and community programs that bring natural and cultural history to life. Visitors can borrow 
           themed educational backpacks, enjoy a self-guided scavenger hunt via the Adventure Lab App, or relax at one of the scenic picnic areas overlooking the Amador Valley 
           and Mt. Diablo. Volunteers play an important role in keeping the park vibrant, and opportunities are available for students and adults alike to contribute through 
           docent programs and event support. The park also serves as a gateway to nearby outdoor adventures. Trail maps available at the visitor center connect Alviso Adobe to 
-          other local parks and preserves, including Augustin Bernal Park, the Castleridge Trailhead, and the Marilyn Murphy Kane Trail. Whether you’re interested in local 
+          other local parks and preserves, including Augustin Bernal Park, the Castleridge Trailhead, and the Marilyn Murphy Kane Trail. Whether you're interested in local 
           history, environmental education, or simply enjoying a peaceful afternoon outdoors, Alviso Adobe Community Park offers a deeply enriching experience for all ages, 
           blending cultural preservation with natural beauty in the heart of Pleasanton.
         </p>
