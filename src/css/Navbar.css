@@ -56,4 +56,8 @@
   .nav-link {
     padding: 0.5rem;
   }
+  .navbar-title{
+    font-size: 1.5rem;
+    padding: 1.5rem;
+  }
 }

@@ -23,19 +23,29 @@
   font-family: "Georgia", Times, serif;
 }
 
+
 .aboutBottom p {
-  margin: 40px;
-  width: 1200px;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 18px;
+    margin: 1.1rem;
+    line-height: 1.6;
+    width: 1200px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
 }
 
 .about .aboutBottom h1 {
-  font-weight: 400;
-  font-size: 70px;
-  color: black;
-  height: 30px;
-  display: flex;
-  justify-content: center;
-  transform: translateY(-40px);
+    font-weight: 400;
+    font-size: 3.2rem;
+    color: black;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-40px);
+}
+@media (max-width: 1000px) {
+  .about .aboutBottom h1 {
+    font-size: 1.6rem;
+  }
+  .aboutBottom p {
+    font-size: 0.95rem;
+  }
 }
