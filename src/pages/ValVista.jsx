@@ -10,6 +10,16 @@ function ValVista() {
       <div className="aboutBottom">
         <h1>About Val Vista Community Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=7350+Johnson+Drive,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              7350 Johnson Drive, Pleasanton, CA
+            </a>
+        </p>
+        <p>
           Val Vista Community Park, located at 7350 Johnson Drive in Pleasanton, CA, is a vibrant community hub offering diverse amenities for families, kids, athletes, 
           gardeners, and nature lovers. Open daily from 9am to 8pm, the park spans over 100 acres and features expansive soccer fields, a modern skate park, 
           inline hockey rink, labyrinth, and a multi-use perimeter path ideal for walking or jogging. The main playground is spectacular: a large, multi-level structure with 

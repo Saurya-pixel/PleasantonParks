@@ -10,6 +10,16 @@ function MissionHills() {
       <div className="aboutBottom">
         <h1>About Mission Hills Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=600+Junipero+Street,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              600 Junipero Street, Pleasanton, CA
+            </a>
+        </p>
+        <p>
           Tucked into the rolling hills of Pleasanton's Mission Park neighborhood, Mission Hills Park is a beloved community destination that offers a perfect blend of 
           adventure, serenity, and family fun. Located at 600 Junipero Street, the park is best known for its iconic 50-foot metal hillside slide, recently renovated and 
           reopened in 2020. Now featuring two side-by-side lanes and a new scramble wall, the slide is both a nostalgic landmark and a thrilling favorite for kids and 

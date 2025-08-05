@@ -10,6 +10,16 @@ function Tawny() {
       <div className="aboutBottom">
         <h1>About Tawny Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=400+Tawny+Drive,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              400 Tawny Drive, Pleasanton, CA
+            </a>
+        </p>
+        <p>
           Tucked into a quiet residential neighborhood in east Pleasanton, Tawny Park offers a serene, family-friendly retreat at 400 Tawny Drive. This 3.2-acre neighborhood 
           park is modest in size but rich in charm, serving as a peaceful escape for local residents seeking nature, play, and casual recreation. Following a thoughtful 
           renovation in 2021, Tawny Park has been updated with new play structures and improved amenities, making it safer and more engaging for children and families. 

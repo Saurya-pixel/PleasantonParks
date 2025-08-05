@@ -9,6 +9,16 @@ function PleasantonRidge() {
       ></div>
       <div className="aboutBottom">
         <h1>About Pleasanton Ridge Regional Park</h1>
+          <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=Foothill+Staging+Area,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Foothill Staging Area, Pleasanton, CA
+            </a>
+          </p>
         <p>
           Pleasanton Ridge Regional Park is a breathtaking expanse of natural beauty nestled along the western edge of Pleasanton, California. Encompassing over 5,200 acres, 
           the park offers a serene retreat from urban life, with rolling oak-studded hills, sweeping grasslands, and panoramic views of the Livermore Valley. 

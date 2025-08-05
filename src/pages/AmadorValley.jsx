@@ -10,6 +10,16 @@ function AmadorValley() {
       <div className="aboutBottom">
         <h1>About Amador Valley Community Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=4301+Black+Avenue,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              4301 Black Avenue, Pleasanton, CA
+            </a>
+        </p>
+        <p>
           Nestled in the heart of Pleasanton, Amador Valley Community Park stands as a vibrant hub for recreation, community gatherings, and nature appreciation. 
           Located at 4301 Black Avenue, this spacious park spans over 23 acres and offers an impressive array of amenities for residents and visitors alike. 
           Open 24 hours a day, the park is known for its family-friendly atmosphere, well-maintained facilities, and its proximity to the Dolores Bengtson Aquatic Center, 

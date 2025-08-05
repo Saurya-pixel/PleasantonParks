@@ -10,6 +10,16 @@ function Kottinger() {
       <div className="aboutBottom">
         <h1>About Kottinger Community Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=Kottinger+Drive,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Kottinger Drive, Pleasanton, CA
+            </a>
+        </p>
+        <p>
           Nestled in the heart of Pleasanton, Kottinger Community Park—also known as Kottinger Ranch Community Park—is a quietly stunning green space 
           stretching along Kottinger Drive and Vineyards Avenue. Meandering approximately two miles from east to west along a lush hillside, the park incorporates a 
           paved walking trail, a charming creek with a pedestrian bridge, and pockets of expansive lawns and shaded tree cover. With a rating of 4.6 out of 5 from multiple reviewers, it is celebrated as one of Pleasanton's “hidden gems”—a peaceful, 

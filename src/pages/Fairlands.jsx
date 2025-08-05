@@ -10,6 +10,16 @@ function Fairlands() {
       <div className="aboutBottom">
         <h1>About Fairlands Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=4100+Churchill+Drive,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              4100 Churchill Drive, Pleasanton, CA
+            </a>
+        </p>
+        <p>
           Tucked away in the quiet Pleasanton Meadows neighborhood, Fairlands Park is a cozy, well-loved community space located at 4100 Churchill Drive in Pleasanton, 
           California. Open 24/7 and easily accessible with nearby street parking, the park serves as both a recreational hub and a peaceful retreat for local families. 
           Though modest in size compared to larger regional parks, Fairlands Park offers a welcoming atmosphere and a thoughtful blend of amenities designed for both play 

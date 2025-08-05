@@ -10,6 +10,16 @@ function Bernal() {
       <div className="aboutBottom">
         <h1>About Bernal Community Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=7001+Pleasanton+Avenue,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              7001 Pleasanton Avenue, Pleasanton, CA
+            </a>
+          </p>
+        <p>
           Take a stroll through Bernal Community Park—nestled within a city-owned 318-acre parcel—where community spirit and nature coexist. Designed by RRM Design Group 
           under a master plan approved by Pleasanton voters, the park spans approximately 50 acres dedicated to active recreation and open space. At its heart lies the 
           Stanford Medicine Sports Complex (formerly Patelco Sports Complex), featuring three lighted synthetic-turf multi-sport fields, including a championship soccer 

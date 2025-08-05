@@ -10,6 +10,16 @@ function Hansen() {
       <div className="aboutBottom">
         <h1>About Hansen Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=5697+Black+Avenue,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              5697 Black Avenue, Pleasanton, CA
+            </a>
+        </p>
+        <p>
           Tucked into a quiet neighborhood at 5697 Black Avenue, Hansen Park is a 6.1-acre community oasis that welcomes visitors around the clock. With its lush open lawns, 
           shaded walking paths, and playground, the park offers a relaxing and family-friendly environment for people of all ages. A paved path loops through the space, 
           shaded by mature trees, making it an inviting setting for walkers and joggers alike. The park consistently earns a strong reputation, with high ratings and 

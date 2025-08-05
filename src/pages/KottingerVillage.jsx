@@ -10,6 +10,16 @@ function KottingerVillage() {
       <div className="aboutBottom">
         <h1>About Kottinger Village Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=4100+Vineyard+Avenue,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              4100 Vineyard Avenue, Pleasanton, CA
+            </a>
+        </p>
+        <p>
           Kottinger Village Park is a peaceful and scenic neighborhood park located at 4100 Vineyard Avenue in Pleasanton, California. Tucked away in a quiet residential area 
           and surrounded by tall redwood trees, the park offers a tranquil retreat for residents and visitors alike. Covering approximately 4 acres, it serves as a green oasis 
           within the city, offering a refreshing balance of nature and recreational space. Its inviting atmosphere, combined with modern amenities, makes it a beloved spot for 

@@ -10,6 +10,16 @@ function AlvisoAdobe() {
       <div className="aboutBottom">
         <h1>About Alviso Adobe Community Park</h1>
         <p>
+          <strong>Address: </strong>
+        <a
+          href="https://www.google.com/maps/search/?api=1&query=3465+Old+Foothill+Road,+Pleasanton,+CA"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          3465 Old Foothill Road, Pleasanton, CA
+        </a>
+        </p>
+        <p>
           Nestled at the base of the Pleasanton Ridge, Alviso Adobe Community Park is a unique seven-acre historical and environmental site that brings the rich heritage of 
           California to life. Located at 3465 Old Foothill Road in Pleasanton, California, this park is centered around a fully restored adobe home built in 1854 by Francisco 
           Alviso, a descendant of Spanish settlers and a tenant of the Rancho Santa Rita land grant. The site has since evolved from a family homestead to the first certified 

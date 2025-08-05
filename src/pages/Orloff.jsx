@@ -10,6 +10,16 @@ function Orloff() {
       <div className="aboutBottom">
         <h1>About Orloff Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=1800+Santa+Rita+Road,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              1800 Santa Rita Road, Pleasanton, CA
+            </a>
+        </p>
+        <p>
           Orloff Park is a vibrant and well-loved community space located at 1800 Santa Rita Road in Pleasanton, California. Spanning over 8 acres, this neighborhood park is a 
           go-to destination for families, children, and outdoor enthusiasts alike. Its welcoming layout includes large green lawns shaded by mature trees, walking paths, and a 
           peaceful atmosphere that offers a retreat from the city's bustle. Whether you're enjoying a stroll or planning a family outing, Orloff Park provides a balanced blend 

@@ -10,6 +10,16 @@ function ShadowCliff() {
       <div className="aboutBottom">
         <h1>About Shadow Cliffs Regional Park</h1>
         <p>
+            <strong>Address: </strong>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=2500+Stanley+Boulevard,+Pleasanton,+CA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              2500 Stanley Boulevard, Pleasanton, CA
+            </a>
+        </p>
+        <p>
           Shadow Cliffs Regional Recreation Area, straddling the Pleasanton-Livermore border in California's Tri-Valley, is a 266-acre park centered around an 80-acre 
           former quarry lake. Donated in 1971 by Kaiser Industries and developed with federal grants, the site now offers abundant recreational opportunities within the 
           East Bay Regional Park District. Located at 2500 Stanley Boulevard, just a mile from downtown Pleasanton, Shadow Cliffs features well-engineered amenities—including 
